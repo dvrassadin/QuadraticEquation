@@ -26,6 +26,7 @@
 		513646C72B32DBCE00A190E1 /* QuadraticEquation */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = QuadraticEquation; sourceTree = BUILT_PRODUCTS_DIR; };
 		513646CA2B32DBCE00A190E1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		513646D12B32DE1300A190E1 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		513646D22B32DFC500A190E1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,8 +43,9 @@
 		513646BE2B32DBCD00A190E1 = {
 			isa = PBXGroup;
 			children = (
-				513646D12B32DE1300A190E1 /* .gitignore */,
 				513646C92B32DBCE00A190E1 /* QuadraticEquation */,
+				513646D12B32DE1300A190E1 /* .gitignore */,
+				513646D22B32DFC500A190E1 /* README.md */,
 				513646C82B32DBCE00A190E1 /* Products */,
 			);
 			sourceTree = "<group>";
